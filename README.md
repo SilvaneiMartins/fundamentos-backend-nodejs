@@ -1,6 +1,6 @@
 # BACKEND NODE JS
 
-![BACKEND_NODEJS](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)
+![BACKEND_NODEJS](https://img.shields.io/badge/BACKEND-NODEJS-red.svg)
 <br />
 ![BACKEND_NODEJS](https://i.imgur.com/bix8ZA8.png)
 
