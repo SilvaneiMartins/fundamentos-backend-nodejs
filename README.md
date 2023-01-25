@@ -1,6 +1,6 @@
 # BACKEND NODE JS
 
-![BACKEND_NODEJS](https://i.imgur.com/bix8ZA8.png)
+![BACKEND_NODEJS](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)
 <br />
 ![BACKEND_NODEJS](https://i.imgur.com/bix8ZA8.png)
 
@@ -24,6 +24,7 @@ Este projeto é sobre fundamentos em NODE JS.
 
 # Recursos do Projeto":
 -   [ X ] Criando Projeto Backend Node Js;
+-   [ X ] Criando Rotas no projetos;
 
 # Instrução para clonar o projeto:
 ```bash
